@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GitHub API",
+    "url": "https://api.github.com"
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com"
+  },
+  {
+    "name": "Invalid API",
+    "url": "https://invalid-api-test-url.com"
+  }
+]
